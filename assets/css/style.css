@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: azure;
+}
+#container{
+    background-color: blueviolet;
+    width: 200px;
+    height: auto;
+    padding: 20px;
+    margin: 20px;
+}
+label{
+    
+}
